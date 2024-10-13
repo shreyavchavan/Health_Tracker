@@ -5,6 +5,7 @@ Features:
 -User-friendly interface with dark theme
 -Input fields for steps, water intake, and sleep hours
 -Output section for displaying health instructions
+
 Technologies Used:
 -HTML
 -CSS
